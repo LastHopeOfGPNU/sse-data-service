@@ -17,6 +17,8 @@ npm i
 npm run dev
 ```
 
+访问: [http://localhost:5173](http://localhost:5173)
+
 ## Request example
 ```sh
 curl --location 'http://127.0.0.1:8000/?start_date=2025-01-01&end_date=2025-01-02&page=1'
